@@ -1,0 +1,15 @@
+C:\Users\eliez\Desktop\.NET\C#\RentRooms\bin\Debug\net6.0\RentRooms.exe
+C:\Users\eliez\Desktop\.NET\C#\RentRooms\bin\Debug\net6.0\RentRooms.deps.json
+C:\Users\eliez\Desktop\.NET\C#\RentRooms\bin\Debug\net6.0\RentRooms.runtimeconfig.json
+C:\Users\eliez\Desktop\.NET\C#\RentRooms\bin\Debug\net6.0\RentRooms.dll
+C:\Users\eliez\Desktop\.NET\C#\RentRooms\bin\Debug\net6.0\RentRooms.pdb
+C:\Users\eliez\Desktop\.NET\C#\RentRooms\obj\Debug\net6.0\RentRooms.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\.NET\C#\RentRooms\obj\Debug\net6.0\RentRooms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliez\Desktop\.NET\C#\RentRooms\obj\Debug\net6.0\RentRooms.AssemblyInfoInputs.cache
+C:\Users\eliez\Desktop\.NET\C#\RentRooms\obj\Debug\net6.0\RentRooms.AssemblyInfo.cs
+C:\Users\eliez\Desktop\.NET\C#\RentRooms\obj\Debug\net6.0\RentRooms.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\.NET\C#\RentRooms\obj\Debug\net6.0\RentRooms.dll
+C:\Users\eliez\Desktop\.NET\C#\RentRooms\obj\Debug\net6.0\refint\RentRooms.dll
+C:\Users\eliez\Desktop\.NET\C#\RentRooms\obj\Debug\net6.0\RentRooms.pdb
+C:\Users\eliez\Desktop\.NET\C#\RentRooms\obj\Debug\net6.0\RentRooms.genruntimeconfig.cache
+C:\Users\eliez\Desktop\.NET\C#\RentRooms\obj\Debug\net6.0\ref\RentRooms.dll
