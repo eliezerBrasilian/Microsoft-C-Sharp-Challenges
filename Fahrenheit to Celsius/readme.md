@@ -1,4 +1,4 @@
-#Complete the challenge to convert Fahrenheit to Celsius
+# Complete the challenge to convert Fahrenheit to Celsius
 
 1. To convert temperatures in degrees Fahrenheit to Celsius, first subtract 32, then multiply by five ninths (5 / 9).
 
